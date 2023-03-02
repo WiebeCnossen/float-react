@@ -1,0 +1,29 @@
+div {
+  box-sizing: border-box;
+}
+
+div.box {
+  background-color: #ffc;
+  margin: 16px;
+  overflow: hidden;
+  position: relative;
+}
+
+div.box > div.block {
+  aspect-ratio: 1/1;
+  background-color: #eee;
+  border-radius: 10%;
+  border: 1px solid currentColor;
+  float: left;
+  overflow: hidden;
+  text-align: center;
+  transition: all 0.5s;
+}
+
+div.box > hr {
+  border-style: dotted;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  width: 100%;
+}
