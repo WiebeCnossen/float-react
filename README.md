@@ -18,4 +18,4 @@ Decide together which and how many of the stories to implement.
 
 ## Story: as a user I want to request a hint which 2 blocks could be swapped to make progress
 
-## Story: as a user I want to drag one block to another to swap them
+## Story: as a user I want the puzzle to be (visually) attractive
